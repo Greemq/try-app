@@ -65,9 +65,7 @@
 </head>
 <body>
 <div id="app">
-    <div class="container">
-        <router-view></router-view>
-    </div>
+    <app></app>
 </div>
 <script src="js/app.js"></script>
 </body>

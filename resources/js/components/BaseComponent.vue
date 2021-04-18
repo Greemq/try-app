@@ -1,12 +1,15 @@
 <template>
     <div>
-        main component
+        <button class="btn-primary">click</button>
     </div>
 </template>
 
 <script>
+
+import Headbar from "./Headbar";
 export default {
-    name: "main"
+    name: "main",
+    components: {Headbar}
 };
 </script>
 

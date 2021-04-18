@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e60f6373-e6f6-45a0-bb3e-8228e57f56ba" name="Default Changelist" comment="" />
+    <list default="true" id="e60f6373-e6f6-45a0-bb3e-8228e57f56ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/try-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/try-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/BaseComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/BaseComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +33,10 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP.7.3">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
@@ -126,6 +143,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1pEVbLPjAdF1UufAMGHAMNkx5RR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,9 +151,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bastau-platform" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="F:\progs\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -153,21 +172,71 @@
       <option name="presentableId" value="Default" />
       <updated>1614748307235</updated>
       <workItem from="1614748308410" duration="3677000" />
-      <workItem from="1618691029548" duration="950000" />
+      <workItem from="1618691029548" duration="5869000" />
+      <workItem from="1618735976334" duration="6998000" />
+      <workItem from="1618743947074" duration="1032000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1618693179648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618693179648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1614790173000">
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1618738102061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614790173000" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1614749976547">
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618738102061" />
+    <state x="620" y="92" key="CommitChangelistDialog2" timestamp="1618693179344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614749976547" />
+    <state x="620" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618693179344" />
+    <state x="92" y="100" width="1544" height="856" key="DiffContextDialog" timestamp="1618697740341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="100" width="1544" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618697740341" />
+    <state x="740" y="274" width="614" height="538" key="FileChooserDialogImpl" timestamp="1618738154372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" width="614" height="538" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618738154372" />
+    <state x="845" y="418" key="Github.ShareDialog" timestamp="1618692311471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618692311471" />
+    <state x="758" y="229" key="Github.UntrackedFilesDialog" timestamp="1618692327343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618692327343" />
+    <state x="816" y="443" key="NewPhpFileDialog" timestamp="1618736875771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618736875771" />
+    <state x="476" y="165" key="SettingsEditor" timestamp="1618744688581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618744688581" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1618693181364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618693181364" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1618698166335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618698166335" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618744590797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618744590797" />
   </component>
 </project>
